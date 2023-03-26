@@ -1,0 +1,21 @@
+[debug] [2023-03-26T19:11:19.961Z] ----------------------------------------------------------------------
+[debug] [2023-03-26T19:11:19.967Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Asim G\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-03-26T19:11:19.968Z] CLI Version:   11.25.1
+[debug] [2023-03-26T19:11:19.969Z] Platform:      win32
+[debug] [2023-03-26T19:11:19.969Z] Node Version:  v18.15.0
+[debug] [2023-03-26T19:11:19.971Z] Time:          Mon Mar 27 2023 00:11:19 GMT+0500 (Pakistan Standard Time)
+[debug] [2023-03-26T19:11:19.971Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-03-26T19:11:19.988Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-03-26T19:11:19.989Z] > authorizing via signed-in user (pervaizzahid55@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Asim G\Desktop\Email Scheduler
+
